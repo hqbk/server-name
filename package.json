@@ -14,5 +14,21 @@
   "dependencies": {
     "philosophers-names": "^1.2.0",
     "slug": "^0.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqbk/server-name.git"
+  },
+  "keywords": [
+    "server",
+    "name",
+    "philosopher",
+    "philosophers",
+    "philosophy"
+  ],
+  "bugs": {
+    "url": "https://github.com/hqbk/server-name/issues"
+  },
+  "homepage": "https://github.com/hqbk/server-name#readme"
 }
