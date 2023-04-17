@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "philosophers-names": "^1.2.0",
-    "slug": "^0.9.1"
+    "slug": "^0.9.2"
   },
   "devDependencies": {},
   "repository": {
